@@ -1,0 +1,54 @@
+h1 {
+    text-align: center;
+}
+
+#p01 {
+    color: red;
+  }
+
+#p012 {
+    color: blue;
+  }
+
+#p03 {
+    color: green;
+  }
+
+#p04 {
+    font-size: 60px;
+}
+
+#p05 {
+    font-size: 6px;
+}
+
+#p06 {
+    text-align: center;
+}
+
+#p07 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#p08 {
+    font-size: xx-large;
+    color: orange;
+    text-emphasis: bold;
+}
+
+.graygraph {
+	color: gray;
+}
+
+.styledFont {
+    color: purple;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: medium;
+    font-stretch: expanded;
+}
+
+#styledImage {
+        border: 64px solid mediumseagreen;
+        padding: 15px;
+        border-image: "https://www.viewlike.us/wp-content/uploads/2013/04/css3-markup.jpg";
+    }
